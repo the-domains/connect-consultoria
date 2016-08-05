@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Corporativo Fiscal
-datePublished: '2016-08-05T01:45:18.807Z'
-dateModified: '2016-08-05T01:45:08.677Z'
+datePublished: '2016-08-05T02:01:22.443Z'
+dateModified: '2016-08-05T02:01:17.292Z'
 title: ''
 author: []
 via: {}
@@ -18,7 +18,7 @@ url: corporativo-fiscal/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6de4edf2-06f6-46d2-a2ab-3d9fc483c983.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a11956a7-35f3-4b3d-b1c1-357ee85f3a8d.jpg)
 
 Corporativo Fiscal
 
